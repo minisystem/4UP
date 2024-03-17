@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+1µ,"C1,C4",Capacitor_SMD:C_0603_1608Metric,C15849
+4.7µ,"C2,C5",Capacitor_SMD:C_0805_2012Metric,C1779
+22µ,"C3,C6,C12,C13,C14,C15,C16",Capacitor_SMD:C_1206_3216Metric,C12891
+220µ,C7,Capacitor_SMD:CP_Elec_6.3x7.7,C371974
+4.7µ,C8,Capacitor_SMD:C_1206_3216Metric,C132170
+10µ,"C9,C10,C11",Capacitor_SMD:C_1206_3216Metric,C13585
+SS54,D2,Diode_SMD:D_SMA,C22452
+10µH,"L1,L2,L3,L4",Inductor_SMD:L_Sunlord_MWSA0518_5.4x5.2mm,C408412
+3.3K,R1,Resistor_SMD:R_0603_1608Metric,C22978
